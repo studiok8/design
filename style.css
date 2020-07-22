@@ -4,6 +4,7 @@ body {
     font-size: 3em;
     width: 980px;
     margin-left: 150px;
+    font-family: cursive;
 }
 h1 {
     text-align: center;
@@ -86,4 +87,5 @@ footer {
     width: 100%;
     text-align: center;
 }
+
 
